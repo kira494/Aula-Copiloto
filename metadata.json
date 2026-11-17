@@ -1,0 +1,6 @@
+{
+  "name": "AulaCopiloto AI",
+  "description": "La inteligencia artificial como aliada de la práctica docente. Copiloto pedagógico para el diseño y adaptación de estrategias didácticas en educación básica primaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
